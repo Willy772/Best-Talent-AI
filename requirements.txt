@@ -1,0 +1,6 @@
+streamlit
+langchain
+PyPDF2
+langchain-google-genai
+pydantic
+matplotlib
