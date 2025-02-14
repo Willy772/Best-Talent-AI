@@ -1,9 +1,1 @@
-je cherche un profil pour développer une application Java avec model MCV
-nous avons une équipe calme et dynamique, donc je veux un profil avec des atouts complémentaire
-je veux de compétence comme java, Snowflake
-il s'agit de l'entreprise safran, elle fait dans l'aéronautique
-conseillez moi un niveau d'expérience pour ce besoin.
-je veux un profil en cdi
-poste situé en France et plus précisément à tarnos
-le salaire de base entre 45000-55000
-avantage de ticket restaurant, abonnement salle de sport
+besoin d'un profil data
