@@ -1,10 +1,10 @@
 import streamlit as st
 import os
-import matplotlib.pyplot as plt
 from langchain_core.prompts import ChatPromptTemplate
 from PyPDF2 import PdfReader
 from langchain_google_genai import ChatGoogleGenerativeAI
 from pydantic import BaseModel, Field
+import matplotlib.pyplot as plt
 
 # Configuration de l'API Google
 os.environ["GOOGLE_API_KEY"] = st.secrets["GOOGLE_API_KEY"]
